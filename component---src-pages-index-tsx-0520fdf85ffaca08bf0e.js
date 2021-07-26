@@ -1,0 +1,2 @@
+(self.webpackChunktouriran_eu=self.webpackChunktouriran_eu||[]).push([[691],{738:function(u,e,n){"use strict";n.r(e);var r=n(294);e.default=function(u){u.data;return r.createElement("div",null," Tour Iran")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-0520fdf85ffaca08bf0e.js.map
